@@ -20,4 +20,9 @@ OPENAI_API_KEY=sk-...
 bun dev
 ```
 
-Open localhost [http://localhost:3000](http://localhost:3000).
+Open [http://localhost:3000](http://localhost:3000).
+
+
+
+https://github.com/user-attachments/assets/9c71c3dd-9b58-4484-8065-cf6b2a30562b
+
